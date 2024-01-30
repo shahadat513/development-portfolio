@@ -220,8 +220,8 @@ footer {
 .footer-column {
     width: 50%;
 }
-.social-links{
-    margin-left: 25px;
+.social-links a{
+    margin-right: 25px;
 }
 
 .contact input[type="text"],
