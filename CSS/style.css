@@ -204,3 +204,12 @@ main section {
     text-align: center;
     margin-top: 50px;
 }
+
+/* Footer Section Style */
+
+footer{
+    background: #FFF8F3;
+    display: flex;
+    margin-top: 10px;
+    padding: 130px 230px;
+}
