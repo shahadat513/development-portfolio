@@ -112,11 +112,23 @@ nav ul li a {
     font-size: 18px;
     margin-top: 20px;
 }
+/* Main section Style */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
 
-/* About area Style */
+/* About section Style */
 .about {
     padding: 150px;
     border-radius: 10px;
     background: #FFF8F3;
     margin: 130px 0;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
 }
